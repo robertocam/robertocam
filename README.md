@@ -1,16 +1,14 @@
-### Hi there 👋
+# Roberto Martins Ribeiro
 
-<!--
-**robertocam/robertocam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> :green_heart: &nbsp; Gosto de aprender e solucionar problemas;
+<br/> :mortar_board: &nbsp; Atualmente, estou estudando engenharia da computação;
+<br/> :running: &nbsp; Procuro um estágio na área de desenvolvimento;
+<br/> :computer: &nbsp; Atualmente, estou aprendendo javascript, html, css e nodejs;
+<br/> :sunglasses: &nbsp; Sobre mim: Curto tecnologias, game LoL e seriados no Netflix;
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RobertoMartinsRibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-martins-ribeiro-108021204/)](https://www.linkedin.com/in/roberto-martins-ribeiro-108021204/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-sejaluz.roberto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejaluz.roberto@gmail.com)](mailto:sejaluz.roberto@gmail.com);
+<br/> :phone: &nbsp; Cell +5516997966857
