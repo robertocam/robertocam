@@ -3,8 +3,8 @@
 ## Olá pessoal 👋
 
 
-<br/> :heart: &nbsp; Gosto de tecnologias, de aprender coisas novas e enfrentar novos desafios;
-<br/> :mortar_board: &nbsp; Atualmente, estou cursando o 5º ano de engenharia da computação;
+<br/> :heart: &nbsp; Gosto de tecnologias, de aprender coisas novas e solucionar novos desafios;
+<br/> :mortar_board: &nbsp; Engenheiro da Computação;
 <br/> :running: &nbsp; Procuro um estágio ou serviço na área de desenvolvimento;
 <br/> :computer: &nbsp; Tenho conhecimento em javascript, html e css. E estou aprendendo e react js;
 <br/> :man: &nbsp; Idoma: Inglês básico e cursando o intermediário;
